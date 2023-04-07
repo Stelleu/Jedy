@@ -10,4 +10,45 @@
   --white: white;
 }
 
+.fw-red {
+  color: var(--red);
+}
+
+.fw-green {
+  color: var(--green);
+}
+
+.fw-yellow {
+  color: var(--yellow);
+}
+
+.fw-blue {
+  color: var(--lightblue);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--blue);
+  color: var(--white);
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
+h1 {
+  font-size: 55px;
+  font-family: "Blinker", sans-serif;
+}
+
+h2 {
+  font-size: 45px;
+  font-family: "Blinker", sans-serif;
+}
+
 /*# sourceMappingURL=main.css.map */

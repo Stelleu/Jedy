@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+  }
+
+  body{
+    background-color: var(--blue);
+    color: var(--white);
+    font-family: $font_Montserrat;
+  }
+  
+  a{
+    text-decoration: none;
+    color: currentColor;
+  }
+  
+  h1{
+    font-size: 55px;
+    font-family: $font_Blinker;
+  }
+  
+  h2{
+    font-size: 45px;
+    font-family: $font_Blinker;
+  }
